@@ -1,6 +1,6 @@
 # Cybersecurity-Agentic-AI
 # 🔐 Cybersecurity Agentic AI Assistant
-![Demo](assets/Agentic_AI.gif)
+![Demo](Agentic_AI.gif)
 ## 📌 Overview
 The **Cybersecurity Agentic AI Assistant** is a powerful, AI-driven research tool designed to provide accurate and up-to-date cybersecurity insights. Built with **Streamlit**, this assistant leverages multiple AI agents and tools to fetch relevant information from trusted sources.
 
