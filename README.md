@@ -50,7 +50,6 @@ The required dependencies are listed in `requirements.txt`:
 agno
 phidata
 python-dotenv
-yfinance
 packaging
 duckduckgo-search
 fastapi
@@ -59,7 +58,6 @@ groq
 openai
 streamlit
 pandas
-GoogleSearch
 ```
 
 ## 🛠 How It Works
