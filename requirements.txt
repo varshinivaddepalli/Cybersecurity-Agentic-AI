@@ -1,7 +1,6 @@
 agno
 phidata 
 python-dotenv
-yfinance
 packaging
 duckduckgo-search
 fastapi
@@ -10,4 +9,3 @@ groq
 openai
 streamlit
 pandas
-GoogleSearch
